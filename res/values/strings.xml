@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">NdkCalculator</string>
+    <!-- tags -->
+    <string name="clear">clear</string>
+    <string name="ops_divide">ops_divide</string>
+    <string name="ops_multiply">ops_multiply</string>
+    <string name="ops_subtract">ops_subtract</string>
+    <string name="ops_add">ops_add</string>
+    <string name="ops_equalto">ops_equalto</string>
+    <string name="num_1">num_1</string>
+    <string name="num_2">num_2</string>
+    <string name="num_3">num_3</string>
+    <string name="num_4">num_4</string>
+    <string name="num_5">num_5</string>
+    <string name="num_6">num_6</string>
+    <string name="num_7">num_7</string>
+    <string name="num_8">num_8</string>
+    <string name="num_9">num_9</string>
+    <string name="num_0">num_0</string>
+    <string name="text_result">text_result</string>
+    
+
+</resources>
